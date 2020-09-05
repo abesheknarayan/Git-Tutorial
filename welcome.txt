@@ -1,7 +1,11 @@
-hi guys this is the master branch. 
-this is the default first branch created by git when you run git init
+hi guys this is the master branch. Hello I am dhruv.hey!cool.
+okkkkkk
+yaaay.
+hhhhh
+this is the second branch created by git when you run git init
 this is new
 hii this is new 2
 chech the log of this branch you should see a commit with message "initial commit"
 
 checkout to add-commit branch
+hello.
